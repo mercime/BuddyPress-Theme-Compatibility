@@ -1,1 +1,0 @@
-# BuddyPress Theme Compatibility
